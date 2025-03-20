@@ -3,11 +3,11 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone https://github.com/yandex-praktikum/kittygram_backend.git
+git clone https://github.com/Nebius-Academy/python_kittygram_backend.git
 ```
 
 ```
-cd kittygram_backend
+cd python_kittygram_backend
 ```
 
 Create and activate a virtual environment:
